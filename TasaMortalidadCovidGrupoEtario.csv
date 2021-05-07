@@ -1,0 +1,9 @@
+index,Número fallecidos,Población,Tasa de mortalidad por 100.000 habitantes
+edad 0 a 4,3,34415,8.72
+edad 5 a 14,2,52715,3.79
+edad 15 a 44,66,213650,30.89
+edad 45 a 64,262,115906,226.05
+edad 65 a 84,580,57279,1012.59
+edad 85 a 99,156,6507,2397.42
+edad 100 o más,1,331,302.11
+Total,1070,480803,222.54
